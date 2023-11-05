@@ -12,4 +12,9 @@
 ![4](https://github.com/mohemd98/repository/assets/108370897/9cd6ecfc-8d41-4cc2-b5fb-612238d0e8fa)
 ##### Supervisors page  : It is to access the employee addition interface
 ![5](https://github.com/mohemd98/repository/assets/108370897/122adfa9-b3b2-4924-ae77-7d81aaf64089)
-##### 
+##### get products page : It is to access the material processing interface for users
+![6](https://github.com/mohemd98/repository/assets/108370897/9c98859d-72d2-410d-b949-740c10219112)
+#####  material return page : It is to access the store's materials retrieval interface
+![7](https://github.com/mohemd98/repository/assets/108370897/88f1d49f-1486-4e5e-a35d-9ed1cc4dfbd1)
+
+ 
