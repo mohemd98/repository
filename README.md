@@ -1,1 +1,2 @@
-"# repository" 
+# "repository" 
+### Warehouse Management is a software application, designed to support WMS (Warehouse Management System) and improve warehouse functions and distribution center management. These systems facilitate management in its daily planning, organizing, staffing, directing and controlling the use of available resources, to move and store materials inside and outside the warehouse, while supporting employees in performing Movement and storage of materials in and around the warehouse.
